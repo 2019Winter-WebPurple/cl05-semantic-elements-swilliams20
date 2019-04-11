@@ -1,0 +1,29 @@
+/*
+/* Sarah Williams
+* April 12, 2019 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    width: 75%
+}
+#lab {height: 600px;
+    width: 775px; /* size of picture */
+}
+header{ 
+    background-color: azure
+}
+main{
+    background-color: azure
+}
+footer{
+    background-color: cadetblue
+}
