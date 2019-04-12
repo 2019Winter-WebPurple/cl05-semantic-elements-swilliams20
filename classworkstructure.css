@@ -13,17 +13,17 @@
 /* Body properties here */
 
 body {
-    width: 75%
+    width: 75%/* size of webpage */
 }
 #lab {height: 600px;
     width: 775px; /* size of picture */
 }
 header{ 
-    background-color: azure
+    background-color: azure/* color of header */
 }
 main{
-    background-color: azure
+    background-color: azure/* color of main section */
 }
 footer{
-    background-color: cadetblue
+    background-color: cadetblue/*color of the footer*/
 }
